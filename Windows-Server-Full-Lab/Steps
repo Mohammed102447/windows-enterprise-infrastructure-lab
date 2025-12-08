@@ -1,0 +1,27 @@
+#rename Device to PDC
+>>control panel> system >about >advanced system setting >Computer Name >Change >"write PDC"
+
+او الامر السريع للنافذة دي هو نكتب في ال cmd 
+>>systempropertiescomputername
+or 
+>>sysdm.cpl
+=================
+2-change ip 
+>> in cmd >> ncpa.cpl
+وتكتب عناوينك
+    IP: 192.168.1.10
+
+    Subnet: 255.255.255.0
+
+    Gateway: 192.168.1.1
+
+    DNS: 127.0.0.1
+===============
+تنصيب ال Active Directory
+1-open server manger from search bar
+2-manage >add role and features 
+3-role-bassed or feature bassed installation
+4-
+
+
+
