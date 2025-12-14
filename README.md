@@ -1,6 +1,4 @@
 # windows-enterprise-infrastructure-lab
-# Windows Server Full LAB
-
  Project Overview
 
 This repository documents a complete Windows Server 2022 enterprise lab implemented step by step in a structured, production-oriented manner. The goal of this project is to simulate a realistic corporate Active Directory environment using multiple Windows Server roles, Group Policy, DHCP, DNS, Hyper-V, WDS, security hardening, backup strategies, and load balancing.
